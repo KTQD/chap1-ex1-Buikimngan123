@@ -2,6 +2,6 @@
 
 int main() 
 {
-    printf("National Economic University"); 
+    printf("National Economics University"); 
     return 0;
 }
